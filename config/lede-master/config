@@ -4887,8 +4887,8 @@ CONFIG_LUCI_LANG_en=y
 # CONFIG_LUCI_LANG_tr is not set
 # CONFIG_LUCI_LANG_uk is not set
 # CONFIG_LUCI_LANG_vi is not set
-CONFIG_LUCI_LANG_zh-cn=y
-# CONFIG_LUCI_LANG_zh-tw is not set
+#CONFIG_LUCI_LANG_zh-cn is not set
+CONFIG_LUCI_LANG_zh-tw=y
 # end of Translations
 
 CONFIG_PACKAGE_luci-compat=y
